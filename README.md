@@ -62,7 +62,7 @@ SAP ERP • SAP PI • SAP Ariba • SAP Cloud Connector • SAP BTP • APIs RE
 
 ## 🌟 Proyectos Destacados
 
-### 🧠 [Predicción de Cancelación de Clientes - Interconnect (Telco)]()
+### 🧠 [Predicción de Cancelación de Clientes - Interconnect (Telco)](https://github.com/JorgeRPMHS/TT-DS-Interconnect)
 🔹 *Machine Learning con Python*  
 🔹 AUC-ROC: **0.8538**  
 🔹 Acciones estratégicas para retención de clientes
