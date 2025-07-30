@@ -1,6 +1,6 @@
 <!-- Encabezado con banner -->
 <p align="center">
-  <img src="https://github.com/JorgeRPMHS/JorgeRPMHS-GitHub-Bannerv2.jpg" alt="Banner de Jorge Roberto Ponce Martínez">
+  <img src="https://github.com/JorgeRPMHS/JorgeRPMHS/JorgeRPMHS-GitHub-Bannerv2.jpg" alt="Banner de Jorge Roberto Ponce Martínez">
 </p>
 
 <h1 align="center">Hola, soy Jorge Roberto Ponce Martínez 👋</h1>
