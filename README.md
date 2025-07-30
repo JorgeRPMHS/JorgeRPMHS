@@ -69,7 +69,7 @@ SAP ERP • SAP PI • SAP Ariba • SAP Cloud Connector • SAP BTP • APIs RE
 
 ---
 
-### 📦 [Análisis de Pedidos - Plataforma Instacart]()
+### 📦 [Análisis de Pedidos - Plataforma Instacart](https://github.com/JorgeRPMHS/TT-DS-Instacart)
 🔹 *Exploración de patrones de consumo y productos populares*  
 🔹 Herramientas: Python, Pandas, SQL, Matplotlib, Seaborn
 
